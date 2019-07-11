@@ -31,7 +31,7 @@ K:G
 * Numpy
 * TQDM
 * Glob
-*abc2midi Converter
+* abc2midi Converter
 
 ## Char RNN
 
